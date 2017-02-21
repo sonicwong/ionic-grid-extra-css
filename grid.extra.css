@@ -1,3 +1,6 @@
+/* =======================================
+Extent class for: https://ionicframework.com/docs/components/#grid
+======================================= */
 .col-5 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 5%;
@@ -58,9 +61,85 @@
     max-width: 45%;
 }
 
+.col-55 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 55%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 55%;
+    -ms-flex: 0 0 55%;
+    flex: 0 0 55%;
+    max-width: 55%;
+}
+
+.col-60 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 60%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 60%;
+    -ms-flex: 0 0 60%;
+    flex: 0 0 60%;
+    max-width: 60%;
+}
+
+.col-65 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 65%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 65%;
+    -ms-flex: 0 0 65%;
+    flex: 0 0 65%;
+    max-width: 65%;
+}
+
+.col-70 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 70%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 70%;
+    -ms-flex: 0 0 70%;
+    flex: 0 0 70%;
+    max-width: 70%;
+}
+
+.col-85 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 85%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 85%;
+    -ms-flex: 0 0 85%;
+    flex: 0 0 85%;
+    max-width: 85%;
+}
+
+.col-95 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 95%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 95%;
+    -ms-flex: 0 0 95%;
+    flex: 0 0 95%;
+    max-width: 95%;
+}
+
+.col-100 {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 100%;
+    -moz-box-flex: 0;
+    -moz-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
 .col-offset-5 {margin-left: 5%;}
 .col-offset-15 {margin-left: 15%;}
 .col-offset-30 {margin-left: 30%;}
 .col-offset-35 {margin-left: 35%;}
 .col-offset-40 {margin-left: 40%;}
 .col-offset-45 {margin-left: 45%;}
+.col-offset-55 {margin-left: 65%;}
+.col-offset-60 {margin-left: 60%;}
+.col-offset-65 {margin-left: 65%;}
+.col-offset-70 {margin-left: 70%;}
+.col-offset-85 {margin-left: 85%;}
+.col-offset-95 {margin-left: 95%;}
